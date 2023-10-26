@@ -25,6 +25,7 @@ name.your_github_email.repl.co
 接著就可以 `close`了，結案。
 
 如果要更新bot的話，可以用pause
+
 ![Alt text](image-4.png)
 
 不過還是會自動開啟，可以刪掉後重弄也還好，不差這點時間。
